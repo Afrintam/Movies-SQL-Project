@@ -55,19 +55,19 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Customer Info](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/email.png)
+![Customer Info](https://github.com/Afrintam/Movies-SQL-Project/blob/main/Movies%20rental%20output/email.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+![Cheapest Rental](https://github.com/Afrintam/Movies-SQL-Project/blob/main/Movies%20rental%20output/CHEAPEST_RENTAL.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/Afrintam/Movies-SQL-Project/blob/main/Movies%20rental%20output/TOTAL_NO_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/rating_wise_count.png)
+![Rating Count](https://github.com/Afrintam/Movies-SQL-Project/blob/main/Movies%20rental%20output/rating_wise_count.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
+![Rating per Store]([https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png](https://github.com/Afrintam/Movies-SQL-Project/blob/main/Movies%20rental%20output/rating_to_store%20(2).png))
 
 ### 6. List of Films by Name, Category, and Language
 ![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
